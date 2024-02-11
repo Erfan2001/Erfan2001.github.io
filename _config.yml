@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seyed Erfan Nourbaksh"
-  avatar           : "profile.png"
+  name             : "S. Erfan Nourbaksh"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  location         : "Isfahan, Iran"
+  employer         :  "AI Engineer at University of Isfahan"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "erfannourbakhsh2001@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Seyed-Erfan-Nourbakhsh"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Erfan2001"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "erfan-nourbakhsh-221540197"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ERFAN35678696"
   vine             :
   weibo            :
   xing             :
