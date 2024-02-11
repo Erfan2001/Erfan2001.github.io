@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "S. Erfan Nourbaksh"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Machine Learning Engineer & Software Engineer"
   location         : "Isfahan, Iran"
-  employer         :  "AI Engineer at University of Isfahan"
+  employer         : #"AI Engineer at University of Isfahan"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "erfannourbakhsh2001@gmail.com"
