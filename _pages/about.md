@@ -6,11 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<p style="text-align=justify;">
 Erfan Nourbakhsh received a B.Sc. degree in computer engineering from the University of Isfahan. He has held a position in the top 10 of Cumulative GPA rankings among students majoring in Computer Engineering within the department.
-
+</p>
+<p style="text-align=justify;">
 He is interested in a broad range of applications for machine learning, natural language processing, and health informatics. Also, he is keen on working on multiple software engineering projects, especially in the field of model management. His current research is focused on NLP and data mining projects, particularly for data analytics, sentiment analysis, and text summarization.
+</p>
 
 <p style="color:red;font-weight:bold">News:</p>
-<p style="font-weight:bold;text-align:justify;">* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" was accepted in <p style="color:red">AISP2024.</p></p>
-<p style="font-weight:bold;text-align:justify;">* I have taken on the role of a <p style="color:red">University Lecturer</p>, instructing a "computer skills workshop" course for undergraduate students majoring in computer engineering at the University of Isfahan.</p>
+<p style="font-weight:bold;text-align:justify;">* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" was accepted in <span style="color:red;font-weight:bold">AISP2024.</span></p>
+<p style="font-weight:bold;text-align:justify;">* I have taken on the role of a <span style="color:red;font-weight:bold">University Lecturer</span>, instructing a "computer skills workshop" course for undergraduate students majoring in computer engineering at the University of Isfahan.</p>
