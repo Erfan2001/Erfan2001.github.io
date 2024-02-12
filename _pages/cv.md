@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-This is the test message!!
-Erfan 123
 
-Education
+Machine Learning Engineer at Eftekhar Modiran
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<p style="color:'red';">March 2023-September 2023</p>
+* Leveraged data analytics and machine learning to identify and attract top talent, reducing time-tohire
+and improving the overall quality of our workforce.
+* Used PyTorch to build a neural network model, employing backpropagation and optimization for
+accurate job predictions, facilitating job discovery for seekers.
 
 Work experience
 ======
