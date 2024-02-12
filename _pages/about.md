@@ -11,4 +11,6 @@ Erfan Nourbakhsh received a B.Sc. degree in computer engineering from the Univer
 
 He is interested in a broad range of applications for machine learning, natural language processing, and health informatics. Also, he is keen on working on multiple software engineering projects, especially in the field of model management. His current research is focused on NLP and data mining projects, particularly for data analytics, sentiment analysis, and text summarization.
 
-<p style="color:red;">dddddd</p>
+<p style="color:red;">News:</p>
+<p>* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" was accepted in AISP2024.</p>
+<p>* I have taken on the role of a University Lecturer, instructing a "computer skills workshop" course for undergraduate students majoring in computer engineering at the University of Isfahan.</p>
