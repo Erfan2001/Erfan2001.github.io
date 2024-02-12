@@ -12,6 +12,8 @@ redirect_from:
 
 Machine Learning Engineer at Eftekhar Modiran
 ======
+
+<h3>Machine Learning Engineer at Eftekhar Modiran</h3>
 <p style="color:'red';">March 2023-September 2023</p>
 * Leveraged data analytics and machine learning to identify and attract top talent, reducing time-tohire
 and improving the overall quality of our workforce.
