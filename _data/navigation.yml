@@ -3,19 +3,22 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations & Posters"
+  - title: "Presentations"
     url: /talks/    
 
-  - title: "Teaching Experience"
-    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Honors"
+    url: /honors/   
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Research Experience"
+  - title: "Research"
     url: /research_experience/
     
-  - title: "Work Experience"
+  - title: "Work"
     url: /work_experience/
     
   - title: "Guide"
