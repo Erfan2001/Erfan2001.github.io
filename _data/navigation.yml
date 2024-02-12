@@ -13,7 +13,10 @@ main:
     url: /honors/  
 
   - title: "Projects"
-    url: /projects/   
+    url: /projects/ 
+
+  - title: "Certificates"
+    url: /certificates/   
     
   # - title: "Portfolio"
   #   url: /portfolio/
