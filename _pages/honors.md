@@ -22,11 +22,11 @@ redirect_from:
 </div>
 
 <div style="background-color:white;border-radius:8px;display:flex;flex-direction:column;align-items:center; width:100%">
-<img alt='image1' src="{{ base_path }}/images/p3.jpg"/>
+<img alt='image1' src="{{ base_path }}/images/p3.jpg" style="width:80%;height:500px;"/>
 <p style="font-weight:bold">Computer Skills Workshop Course(Computer Engineering Students)</p>
 </div>
 
 <div style="background-color:white;border-radius:8px;display:flex;flex-direction:column;align-items:center; width:100%;">
-  <img alt='image1' src="{{ base_path }}/images/p4.jpg"/>
+  <img alt='image1' src="{{ base_path }}/images/p4.jpg" style="width:80%;height:500px;"/>
   <p style="font-weight:bold">Basics of Computer and Programming Course(Electrical Engineering Students)</p>
 </div>
