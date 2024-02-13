@@ -72,10 +72,11 @@ Ranked among the <span style="font-weight:bold;">top 5 teams</span> in the data 
     <a href="https://www.uiux.com/" target="_blank" rel="noreferrer"> <img src="https://proso.ai/wp-content/uploads/2022/06/ui-and-ux.jpg" alt="ui ux" width="70" height="40"/> </a> 
         <a href="https://www.optimalworkshop.com/treejack/" target="_blank" rel="noreferrer"> <img src="https://www.tree-testing.com/wp-content/uploads/2021/08/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B1%D0%B5%D0%B7-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-1.png" alt="treejack" width="50" height="40"/> </a> 
 <h4 align="left">Other:</h4>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="C++" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
   <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java" width="40" height="40"/>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="linux" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-        <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-Logo-2011.png" alt="Trello" width="60" height="60"/> </a> 
-                <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" width="60" height="60"/> </a> 
+        <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-Logo-2011.png" alt="linux" width="60" height="60"/> </a> 
+                <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="linux" width="60" height="60"/> </a> 
