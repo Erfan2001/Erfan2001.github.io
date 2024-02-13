@@ -26,10 +26,10 @@ main:
   # - title: "Volunteer Works"
   #   url: /volunteer_works/
 
-  - title: "Research"
+  - title: "Research Experience"
     url: /research_experience/
     
-  - title: "Work"
+  - title: "Work Experience"
     url: /work_experience/
 
   - title: "Technical Skills"
