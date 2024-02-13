@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Honors"
-    url: /honors/  
+  # - title: "Honors"
+  #   url: /honors/  
 
   - title: "Projects"
     url: /projects/ 

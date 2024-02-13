@@ -17,7 +17,7 @@ He is interested in a broad range of applications for machine learning, natural 
 <p style="font-weight:bold;text-align:justify;">* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" was accepted in <span style="color:red;font-weight:bold">AISP2024.</span></p>
 <p style="font-weight:bold;text-align:justify;">* I have taken on the role of a <span style="color:red;font-weight:bold">University Lecturer</span>, instructing a "computer skills workshop" course for undergraduate students majoring in computer engineering at the University of Isfahan.</p>
 
-
+<hr/>
 <p style="font-weight:bold">Honors & Awards:</p>
 <ul>
 <li style="text-align:justify;">
