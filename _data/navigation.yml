@@ -32,8 +32,8 @@ main:
   - title: "Work Experience"
     url: /work_experience/
 
-  - title: "Technical Skills"
-    url: /technical_skills/
+  # - title: "Technical Skills"
+  #   url: /technical_skills/
     
   # - title: "Guide"
   #   url: /markdown/

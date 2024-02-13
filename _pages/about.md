@@ -32,7 +32,7 @@ Ranked among the <span style="font-weight:bold;">top 5 teams</span> in the data 
 </ul>
 
 <hr style="height:1px;background:black;"/>
-<p style="font-weight:bold">Honors & Awards:</p>
+<p style="font-weight:bold">Technical Skills:</p>
 <h4 align="left">Artificial Intelligence:</h4>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
     <a href="https://pytorch-geometric.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="pytorch-geometric" width="40" height="40"/> </a> 
