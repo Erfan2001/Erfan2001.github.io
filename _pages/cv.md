@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-
+<h2>Frontend Developer & Tech Lead at Eftekhar Modiran</h2>
+<p >March 2023-Present</p>
+* The EftekharTalent smart system is the most significant output of this project, aimed at providing skill knowledge and online job search capabilities.
+* We employed the ReactJS library in conjunction with the NextJS framework for the execution of this project.
 
 <h2>Machine Learning Engineer at Eftekhar Modiran</h2>
 <p >March 2023-September 2023</p>
@@ -17,11 +20,6 @@ redirect_from:
 and improving the overall quality of our workforce.
 * Used PyTorch to build a neural network model, employing backpropagation and optimization for
 accurate job predictions, facilitating job discovery for seekers.
-
-<h2>Frontend Developer & Tech Lead at Eftekhar Modiran</h2>
-<p >March 2023-September 2023</p>
-* The EftekharTalent smart system is the most significant output of this project, aimed at providing skill knowledge and online job search capabilities.
-* We employed the ReactJS library in conjunction with the NextJS framework for the execution of this project.
 
 <h2>Machine Learning Intern at Vitraco</h2>
 <p >July 2022-September 2022</p>
