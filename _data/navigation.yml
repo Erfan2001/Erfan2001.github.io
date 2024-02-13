@@ -21,15 +21,14 @@ main:
   - title: "Work Experience"
     url: /work_experience/
 
-  # - title: "Honors"
-  #   url: /honors/  
-
   - title: "Projects"
     url: /projects/ 
 
   - title: "Certificates"
     url: /certificates/   
-    
+  
+  - title: "Gallery"
+    url: /gallery/  
   # - title: "Portfolio"
   #   url: /portfolio/
   # - title: "Volunteer Works"
