@@ -16,7 +16,7 @@ He is interested in a broad range of applications for machine learning, natural 
 <p style="color:red;font-weight:bold">News:</p>
 <p style="font-weight:bold;text-align:justify;">* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" was accepted in <span style="color:red;font-weight:bold">AISP2024</span>.<i>(February 2024)</i></p>
 <p style="font-weight:bold;text-align:justify;">* I have taken on the role of a <span style="color:red;font-weight:bold">University Lecturer</span>, instructing a "computer skills workshop" course for undergraduate students majoring in computer engineering at the University of Isfahan.<i>(October 2023)</i></p>
-<p style="font-weight:bold;text-align:justify;">*I joined <span style="color:red;font-weight:bold"><a href="https://icelet2024.ui.ac.ir/en/">ICELET2024</a></span>  as a member of informatics committee.<i>(October 2023)</i></p>
+<p style="font-weight:bold;text-align:justify;">*I joined <span style="color:red;font-weight:bold"><a style="color:red;" href="https://icelet2024.ui.ac.ir/en/">ICELET2024</a></span>  as a member of informatics committee.<i>(October 2023)</i></p>
 <p style="font-weight:bold;text-align:justify;">*I joined <span style="color:red;font-weight:bold">TEDx2023</span>  as an executive team at the University of Isfahan.<i>(September 2023)</i></p>
 <hr style="height:1px;background:black;"/>
 <p style="font-weight:bold">Honors & Awards:</p>
