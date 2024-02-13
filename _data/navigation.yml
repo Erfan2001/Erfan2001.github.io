@@ -6,11 +6,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /talks/    
+  # - title: "Publications"
+  #   url: /publications/
+
+  - title: "Research Experience"
+    url: /research_experience/
+
+  # - title: "Presentations"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Work Experience"
+    url: /work_experience/
 
   # - title: "Honors"
   #   url: /honors/  
@@ -25,12 +34,7 @@ main:
   #   url: /portfolio/
   # - title: "Volunteer Works"
   #   url: /volunteer_works/
-
-  - title: "Research Experience"
-    url: /research_experience/
-    
-  - title: "Work Experience"
-    url: /work_experience/
+  
 
   # - title: "Technical Skills"
   #   url: /technical_skills/
