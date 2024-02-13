@@ -25,10 +25,8 @@ He is interested in a broad range of applications for machine learning, natural 
 Ranked among the <span style="font-weight:bold;">top 10 students</span> in Cumulative GPA out of more than 100 students in the Computer Engineering department at the University of Isfahan, 2023
 </li>
 <li style="text-align:justify;">
-Recipient of <span style="font-weight:bold;">Honorary Admission</span> as an <span style="font-weight:bold;">exceptional talent</span> for direct admission to the graduate program
-in Artificial Intelligence and Software Engineering Fields at the University of Isfahan, 2023
+Recipient of <span style="font-weight:bold;">Honorary Admission</span> as an <span style="font-weight:bold;">exceptional talent</span> for direct admission to the graduate program in Artificial Intelligence and Software Engineering Fields at the University of Isfahan, 2023
 </li>
 <li style="text-align:justify;">
-Ranked among the <span style="font-weight:bold;">top 5 teams</span> in the data mining competition among all attendees held by Mohaymen
-ICT Group, University of Isfahan, 2022</li>
+Ranked among the <span style="font-weight:bold;">top 5 teams</span> in the data mining competition among all attendees held by Mohaymen ICT Group, University of Isfahan, 2022</li>
 </ul>
