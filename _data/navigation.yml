@@ -23,7 +23,7 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-  - title: "Voluntary"
+  - title: "Volunteer Works"
     url: /volunteer_works/
 
   - title: "Research"
@@ -35,5 +35,5 @@ main:
   - title: "Technical Skills"
     url: /technical_skills/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

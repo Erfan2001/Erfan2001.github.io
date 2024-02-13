@@ -16,3 +16,17 @@ He is interested in a broad range of applications for machine learning, natural 
 <p style="color:red;font-weight:bold">News:</p>
 <p style="font-weight:bold;text-align:justify;">* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" was accepted in <span style="color:red;font-weight:bold">AISP2024.</span></p>
 <p style="font-weight:bold;text-align:justify;">* I have taken on the role of a <span style="color:red;font-weight:bold">University Lecturer</span>, instructing a "computer skills workshop" course for undergraduate students majoring in computer engineering at the University of Isfahan.</p>
+
+
+<p style="font-weight:bold">Honors & Awards:</p>
+<ul>
+<li style="text-align:justify;">
+Ranked in Honors and top 10 in Cumulative GPA among students in Computer Engineering major of the department, University of Isfahan, 2023
+</li>
+<li style="text-align:justify;">
+Recipient of Honory Admission for continuing graduate study in Artificial Intelligence and Software Engineering fields at University of Isfahan, May 2023
+</li>
+<li style="text-align:justify;">
+Ranked in top 5 in data mining competition among all attendees held by Mohaymen ICT Group, University of Isfahan, 2022
+</li>
+</ul>
