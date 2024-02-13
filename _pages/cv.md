@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<h2>Frontend Developer & Tech Lead at Eftekhar Modiran</h2>
+<h2>Frontend Developer & Tech Lead at Eftekhar Modiran Company</h2>
 <p >March 2023-Present</p>
 * The EftekharTalent smart system is the most significant output of this project, aimed at providing skill knowledge and online job search capabilities.
 * We employed the ReactJS library in conjunction with the NextJS framework for the execution of this project.
 
-<h2>Machine Learning Engineer at Eftekhar Modiran</h2>
+<h2>Machine Learning Engineer at Eftekhar Modiran Company</h2>
 <p >March 2023-September 2023</p>
 * Leveraged data analytics and machine learning to identify and attract top talent, reducing time-tohire
 and improving the overall quality of our workforce.
