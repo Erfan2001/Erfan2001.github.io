@@ -10,10 +10,12 @@ redirect_from:
 {% include base_path %}
 
 <div style="display:flex">
-<div style="background-color:white;border-radius:8px;">
-<img alt='image1' src="{{ base_path }}/images/p1.jpg"/>
+<div style="background-color:white;border-radius:8px;display:flex;flex-direction:column;align-items:center;">
+<img alt='image1' src="{{ base_path }}/images/p1.jpg" style="height:400px;width:200px"/>
+<p>Test Message</p>
 </div>
-<div style="background-color:white;border-radius:8px;">
-<img alt='image1' src="{{ base_path }}/images/p1.jpg"/>
+<div style="background-color:white;border-radius:8px;display:flex;flex-direction:column;align-items:center;">
+<img alt='image1' src="{{ base_path }}/images/p1.jpg" style="height:400px;width:200px"/>
+<p>
 </div>
 </div>
