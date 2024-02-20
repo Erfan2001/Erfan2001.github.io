@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 <p style="text-align:justify;">
-Erfan Nourbakhsh received a B.Sc. degree in computer engineering from the <a href="https://www.ui.ac.ir/en">University of Isfahan</a>. He has held a position in the top 10 of Cumulative GPA rankings among students majoring in the <a href="http://fce.ui.ac.ir/">faculty of Computer Engineering</a>.
+Erfan Nourbakhsh received a B.Sc. degree in computer engineering from the <a href="https://www.ui.ac.ir/en">University of Isfahan</a>. He has achieved a position within the top 10 rankings for cumulative GPA among students in the <a href="http://fce.ui.ac.ir/">faculty of Computer Engineering</a>.
 </p>
 <p style="text-align:justify;">
-He is interested in a broad range of applications for machine learning, natural language processing, and health informatics. Also, he is keen on working on multiple software engineering projects, especially in the field of model management. His current research is focused on NLP and data mining projects, particularly for data analytics, sentiment analysis, and text summarization.
+He is interested in a broad range of applications for machine learning, natural language processing, data mining, and health informatics. Also, he is keen on working on multiple software engineering projects, especially in the field of model management. His ongoing research centers around graph neural networks and machine learning endeavors, specifically within the domains of natural language processing (NLP) and data analytics.
 </p>
 
 <p style="color:red;font-weight:bold">News:</p>
