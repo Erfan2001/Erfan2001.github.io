@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
+
 <p style="text-align:justify;">
 Erfan Nourbakhsh received a B.Sc. degree in computer engineering from the <a href="https://www.ui.ac.ir/en">University of Isfahan</a>. He has achieved a position within the top 10 rankings for cumulative GPA among students in the <a href="http://fce.ui.ac.ir/">faculty of Computer Engineering</a>.
 </p>
@@ -14,7 +16,7 @@ He is interested in a broad range of applications for machine learning, natural 
 </p>
 
 <p style="color:red;font-weight:bold">News:</p>
-<p style="font-weight:bold;text-align:justify;">* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" was accepted in <span style="color:red;font-weight:bold">AISP2024</span>.<i>(February 2024)</i></p>
+<p style="font-weight:bold;text-align:justify;">* My paper, titled "ConHGNN-SUM: A Contextualized Heterogeneous Graph Neural Network for Extractive Text Summarization" <span style="color:red;font-weight:bold"> <a style="color:red;" href="{{ base_path }}/files/aisp-1107.pdf" >was accepted in AISP2024</a></span>.<i>(February 2024)</i></p>
 <p style="font-weight:bold;text-align:justify;">* I joined the <span style="color:red;font-weight:bold"><a style="color:red;" href="https://csi.org.ir/en/">Computer Society of Iran</a></span>.<i>(December 2023)</i></p>
 <p style="font-weight:bold;text-align:justify;">* I have taken on the role of a <span style="color:red;font-weight:bold">University Lecturer</span>, instructing a "computer skills workshop" course for undergraduate students majoring in computer engineering at the University of Isfahan.<i>(October 2023)</i></p>
 <p style="font-weight:bold;text-align:justify;">* I joined <span style="color:red;font-weight:bold"><a style="color:red;" href="https://icelet2024.ui.ac.ir/en/">ICELET2024</a></span>  as a member of informatics committee.<i>(October 2023)</i></p>
